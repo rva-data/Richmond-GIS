@@ -28,4 +28,18 @@ collection.
 
 Due to considerations around sharing the files simply over Git, the
 largest files (over 50M) have been gzipped and kept out of the
-repository.
+repository. These are the files:
+
+    Basemap/RoadEdge.shp.geojson
+    Basemap/Structure.shp.geojson
+    Basemap/TransportationSurface.shp.geojson
+    Contours/Contours.shp.geojson
+    Contours/Contours_NE_a.shp.geojson
+    Contours/Contours_NE_b.shp.geojson
+    Contours/Contours_NW_a.shp.geojson
+    Contours/Contours_NW_b.shp.geojson
+    Contours/Contours_SE_a.shp.geojson
+    Contours/Contours_SE_b.shp.geojson
+    Contours/Contours_SW_a.shp.geojson
+    Contours/Contours_SW_b.shp.geojson
+    Environmental/ForestCanopy.shp.geojson
