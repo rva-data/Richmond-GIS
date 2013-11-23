@@ -30,16 +30,16 @@ Due to considerations around sharing the files simply over Git, the
 largest files (over 50M) have been gzipped and kept out of the
 repository. These are the files:
 
-    Basemap/RoadEdge.shp.geojson
-    Basemap/Structure.shp.geojson
-    Basemap/TransportationSurface.shp.geojson
-    Contours/Contours.shp.geojson
-    Contours/Contours_NE_a.shp.geojson
-    Contours/Contours_NE_b.shp.geojson
-    Contours/Contours_NW_a.shp.geojson
-    Contours/Contours_NW_b.shp.geojson
-    Contours/Contours_SE_a.shp.geojson
-    Contours/Contours_SE_b.shp.geojson
-    Contours/Contours_SW_a.shp.geojson
-    Contours/Contours_SW_b.shp.geojson
-    Environmental/ForestCanopy.shp.geojson
+- [Basemap/RoadEdge.shp.geojson](http://richmond-gis.s3.amazonaws.com/Basemap/RoadEdge.shp.geojson.gz)
+- [Basemap/Structure.shp.geojson](http://richmond-gis.s3.amazonaws.com/Basemap/Structure.shp.geojson.gz)
+- [Basemap/TransportationSurface.shp.geojson](http://richmond-gis.s3.amazonaws.com/Basemap/TransportationSurface.shp.geojson.gz)
+- [Contours/Contours.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours.shp.geojson.gz)
+- [Contours/Contours_NE_a.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_NE_a.shp.geojson.gz)
+- [Contours/Contours_NE_b.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_NE_b.shp.geojson.gz)
+- [Contours/Contours_NW_a.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_NW_a.shp.geojson.gz)
+- [Contours/Contours_NW_b.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_NW_b.shp.geojson.gz)
+- [Contours/Contours_SE_a.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_SE_a.shp.geojson.gz)
+- [Contours/Contours_SE_b.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_SE_b.shp.geojson.gz)
+- [Contours/Contours_SW_a.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_SW_a.shp.geojson.gz)
+- [Contours/Contours_SW_b.shp.geojson](http://richmond-gis.s3.amazonaws.com/Contours/Contours_SW_b.shp.geojson.gz)
+- [Environmental/ForestCanopy.shp.geojson](http://richmond-gis.s3.amazonaws.com/Environmental/ForestCanopy.shp.geojson.gz)
